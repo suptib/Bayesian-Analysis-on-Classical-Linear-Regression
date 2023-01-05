@@ -1,1 +1,1 @@
-# Bayesian-Analysis-on-Classical-Linear-Regression
+# Bayesian-Analysis-on-Classical-Linear-Regression Model
